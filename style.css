@@ -1,0 +1,263 @@
+html {
+    
+}
+/* FONTS */
+p {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+h1 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+}
+
+h2{
+    font-family: 'Josefin Sans', sans-serif;
+    text-decoration: none;
+    text-align: center;
+    font-size: 18;
+}
+
+
+/* HEADER, BODY, FOOTER*/
+body {
+    margin:0;
+    padding:0;
+    height:auto;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1090px;
+    min-width: 920px;
+}
+
+
+
+
+
+.body {
+    padding:10px;
+    padding-bottom:10px;
+}
+
+/*HOME PAGE*/
+.maingrid{
+    padding-top: 60px;
+    width: 100%;
+    padding-left: 2;
+}
+
+.maingrid a {
+    float: left;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+    text-decoration: none;
+    color: white;
+    
+    
+    
+}
+
+.maingrid a:hover {
+    float: left;
+     -webkit-filter: grayscale(0%);
+    filter: grayscale(0%);
+    color: black;
+}
+
+
+/*ABOUT PAGE */
+.aboutcontainer{
+    padding-top: 70;
+    padding-bottom: 0px;
+    width: 100%;
+    height: auto;
+    
+}
+
+.bio{
+    float: right;
+    width: 48%;
+    margin-top: -5;
+    padding-bottom: 50px;
+    
+}
+
+.picofme {
+    float: left;
+    width: 50%;
+    padding-bottom: 20px;
+}
+
+.aboutcontainer p {
+    font-size: 16px;
+    line-height: 1.1;
+}
+
+.aboutcontainer h1{
+    text-align: center;
+}
+
+.contactme{
+    width: 100%;
+    padding-top: 40;
+    text-align: center;
+}
+
+.contactme h1{
+    padding-top: 450
+   
+}
+
+/*WINDSTANTLY*/
+
+.windstantly{
+    max-width: 800px;
+    padding-top: 30px;
+    width: 100%
+}
+
+/*BRANDBOOK*/
+.brandbook{
+    padding-top: 20px;
+    width: 100%;
+}
+
+/* NAVBAR */
+
+.container {
+    width: 100%;
+}
+
+.logo {
+    float: left;
+    padding: 30px 0px 30px 0px;
+}
+
+
+.topnav {
+    background-color: #FFFFFF;
+    padding-top: 60px;
+    padding-bottom: 47;
+}
+
+.topnav a {
+    display: inline;
+    color: #333136;
+    text-decoration: none;
+    padding: 10px 0px 10px 60px;
+    font-size: 13px;
+    font-family: 'Century Gothic', sans-serif;
+}
+
+.topnav a:hover {
+    color: #ddb5b5;
+}
+
+
+/*PHOTOGRAPHY*/
+
+.photobook{
+    padding-top: 47;
+    padding-bottom: 1000px;
+   
+   
+}
+
+.serenitymain {
+    position: relative;
+    color: white;
+    float: left;
+    width: 540px;
+    overflow: hidden;
+}
+
+.serenitymain img{
+    width:inherit;
+}
+
+.mellowmain {
+    position: relative;
+    color: white;
+    padding-top: 10px;
+    width: 540px;
+    float: left;
+    
+}
+
+.mellowmain img{
+    width: inherit;
+    margin-top: -10;
+    margin-left: 10;
+}
+
+.darkmain {
+    position: relative;
+    color: white;
+    padding-top: 10px;
+    width: 540px;
+    float: left;
+}
+
+.darkmain img{
+    width: inherit;
+}
+
+.chaosmain{
+    position: relative;
+    color: white;
+    padding-top: 10px;
+    width: 540px;
+    float: left; 
+}
+
+.chaosmain img{
+    width: inherit;
+    margin-left: 10;
+}
+
+.bottomleft {
+    position: absolute;
+    bottom: 8px;
+    left: 30px;
+    font-size: 16;
+    
+}
+
+.photobook a {
+    float: left;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+    text-decoration: none;
+    
+    
+    
+}
+
+.photobook a:hover {
+    float: left;
+     -webkit-filter: grayscale(0%);
+    filter: grayscale(0%);
+}
+
+.serenity {
+    padding-bottom: 300px;
+    width: 100%;
+}
+
+.serenity span{
+    padding: 10 20 10 10;
+}
+
+.serenity button {
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+    padding: 7 7 5 7;
+    background: #F1DFDD;
+    border: none;
+    font-size: 14;
+    position: absolute;
+    margin-top: 800;
+    margin-left: -25
+}
+
