@@ -15,7 +15,7 @@ h2{
     font-family: 'Josefin Sans', sans-serif;
     text-decoration: none;
     text-align: center;
-    font-size: 18;
+    font-size: 14;
 }
 
 
@@ -42,9 +42,9 @@ body {
 
 /*HOME PAGE*/
 .maingrid{
-    padding-top: 60px;
     width: 100%;
     padding-left: 2;
+    padding-bottom: 601;
 }
 
 .maingrid a {
@@ -273,5 +273,7 @@ body {
     float: right;
     margin-top: -41;
     padding-bottom: 30px;
+    
 }
+
 
