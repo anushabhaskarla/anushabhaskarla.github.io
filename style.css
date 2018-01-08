@@ -2,6 +2,11 @@ html {
     
 }
 /* FONTS */
+font-face {
+    font-family: 'Josefin Sans', sans-serif;
+    src: url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+}
+
 p {
     font-family: 'Josefin Sans', sans-serif;
 }
@@ -44,7 +49,7 @@ body {
 .maingrid{
     width: 100%;
     padding-left: 2;
-    padding-bottom: 601;
+    padding-bottom: 600;
 }
 
 .maingrid a {
@@ -53,6 +58,7 @@ body {
     filter: grayscale(100%);
     text-decoration: none;
     color: white;
+    padding-bottom: 20px;
     
     
     
@@ -69,10 +75,14 @@ body {
 /*ABOUT PAGE */
 .aboutcontainer{
     padding-top: 70;
-    padding-bottom: 460px;
+    padding-bottom: 550px;
     width: 100%;
     height: auto;
     
+}
+
+.contact {
+    padding-bottom: 20px;
 }
 
 .bio{
@@ -165,7 +175,7 @@ body {
 
 .photobook{
     padding-top: 47;
-    padding-bottom: 920px;
+    padding-bottom: 820px;
    
    
 }
@@ -269,6 +279,9 @@ body {
 
 
 /*FOOTER*/
+footer {
+    padding-top: 60px;
+}
 .footericons {
     float: right;
     margin-top: -41;
