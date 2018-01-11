@@ -278,6 +278,58 @@ body {
 }
 
 
+/*ISA PORTFOLIO*/
+
+.isaport {
+  position: relative;
+    float: left;
+  width: 30%;
+    padding: 1.4%;
+    
+}
+
+.portimage {
+    padding-bottom: 70%;
+}
+
+.portimage1{
+    padding-bottom: 36.5%;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #ffffff;
+}
+
+.isaport:hover .overlay {
+  opacity: .95;
+}
+
+.text {
+  color: black;
+  font-family:'Josefin Sans', sans-serif; 
+  font-size: 19px;
+  position: absolute;
+  top: 24%;
+  left: 17%;
+  transform: translate(-11%, -24%);
+  -ms-transform: translate(-50%, -50%);
+}
+
 /*FOOTER*/
 footer {
     padding-top: 60px;
