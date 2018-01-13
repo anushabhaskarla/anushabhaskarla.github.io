@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:200,900');
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
 
 html {
     
@@ -9,12 +9,15 @@ font-face {
 }
 
 p {
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Century Gothic', sans-serif;
+   
+    font-size: 14;
 }
 
 h1 {
     font-family: 'Josefin Sans', sans-serif;
     font-weight: bold;
+    font-weight: 200;
 }
 
 h2{
@@ -22,6 +25,14 @@ h2{
     text-decoration: none;
     text-align: center;
     font-size: 14;
+    font-weight: 200;
+}
+
+h3{
+    font-family: 'Josefin Sans', sans-serif;
+    text-decoration: none;
+    font-size: 14;
+    font-weight: 100;
 }
 
 
@@ -35,7 +46,6 @@ body {
     margin-right: auto;
     max-width: 1090px;
     min-width: 920px;
-    font-family: 'Josefin Sans', sans-serif;
 }
 
 
@@ -101,10 +111,7 @@ body {
     padding-bottom: 20px;
 }
 
-.aboutcontainer p {
-    font-size: 16px;
-    line-height: 1.1;
-}
+
 
 .aboutcontainer h1{
     text-align: center;
@@ -136,8 +143,6 @@ body {
 }
 
 .branddescription p {
-    font-size: 16px;
-    line-height: 1.2;
     padding-bottom: 40;
 }
 
@@ -290,12 +295,19 @@ body {
     
 }
 
+.isaport p{
+    font-size: 14.5;
+    font-family: 'Century Gothic', sans-serif;
+    
+}
+
 .portimage {
     padding-bottom: 70%;
 }
 
 .portimage1{
     padding-bottom: 36.5%;
+    
 }
 
 .image {
@@ -335,6 +347,10 @@ body {
 /*FOOTER*/
 footer {
     padding-top: 60px;
+}
+
+footer p {
+    font-family: 'Josefin Sans', sans-serif;
 }
 .footericons {
     float: right;
