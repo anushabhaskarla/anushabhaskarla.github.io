@@ -179,11 +179,17 @@ body {
 /*PHOTOGRAPHY*/
 
 .photobook{
+    width: 100%;
     padding-top: 47;
    
    
 }
 
+.photobookimg{
+    position: static;
+}
+
+/*
 .serenitymain {
     position: relative;
     color: white;
@@ -242,6 +248,7 @@ body {
     left: 30px;
     font-size: 16;
     
+*/
 }
 
 .photobook a {
@@ -260,6 +267,7 @@ body {
     filter: grayscale(0%);
 }
 
+/*
 .serenity {
     padding-bottom: 60px;
     width: 100%;
@@ -280,6 +288,7 @@ body {
     margin-top: 600;
     margin-left: -28;
 }
+*/
 
 
 /*ISA PORTFOLIO*/
