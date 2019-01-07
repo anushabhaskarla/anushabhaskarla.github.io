@@ -299,6 +299,20 @@ body {
 */
 
 
+/* CONTENT ALIGNTMENT */
+
+.contentdescrip {
+    
+    display: inline-block;
+   
+    
+}
+
+
+.contentimg {
+    display: inline-block;
+}
+
 /*ISA PORTFOLIO*/
 
 .isaport {
