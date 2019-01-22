@@ -157,6 +157,21 @@ body {
     padding-bottom: -10;
 }
 
+
+
+.nutripointshead p {
+    width: 63%;
+    float: left;  
+    padding-right: 10%;
+}
+.nutripoints img {
+    float: right;
+    padding-left: 10%;
+}
+
+
+
+
 /* NAVBAR */
 
 .container {
@@ -322,6 +337,69 @@ body {
     display: inline-block;
 }
 
+.npcontent {
+    display: inline-block;
+}
+
+.npcontent img{
+    float: left;
+    padding-right: 10%;
+    padding-left: 5%;
+}
+
+.npcontentwrite {
+    width: 85%;
+    padding-top: 25%
+}
+
+
+.npcontent1 {
+    display: inline-block;
+}
+
+.npcontent1 img{
+    float: right;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.npcontentwrite1 {
+    width: 90%;
+    padding-top: 25%;
+}
+
+
+.npcontent2 {
+    display: inline-block;
+}
+
+.npcontent2 img{
+    float: right;
+    padding-left: 13%;
+    margin-right: 5%
+}
+
+.npcontentwrite1 {
+    width: 75%;
+    padding-top: 25%;
+}
+
+
+.npcontent4 {
+    display: inline-block;
+}
+
+.npcontent4 img{
+    float: left;
+}
+
+.npcontentwrite4 {
+    float: left;
+    width: 30%;
+    padding-top: 20%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
 
 .indent {
     padding-left: 10%;
