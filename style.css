@@ -359,13 +359,14 @@ body {
 
 .npcontent1 img{
     float: right;
-    padding-left: 5%;
+    padding-left: 10%;
     padding-right: 5%;
 }
 
 .npcontentwrite1 {
     width: 90%;
     padding-top: 25%;
+    margin-left: -10%;
 }
 
 
