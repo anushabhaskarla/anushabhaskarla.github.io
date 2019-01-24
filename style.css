@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300");
+@import url("https://fonts.googleapis.com/css?family=Roboto+Condensed:300");
 @import url("https://fonts.googleapis.com/css?family=Roboto:300");
 
 html {
@@ -6,7 +6,7 @@ html {
 }
 /* FONTS */
 font-face {
-    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
     font-family: 'Roboto', sans-serif;
     
 }
@@ -22,13 +22,13 @@ p {
 }
 
 h1 {
-    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
     font-weight: bold;
     
 }
 
 .maingrid h2{
-    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
     text-decoration: none;
     text-align: center;
     font-size: 16;
@@ -36,14 +36,14 @@ h1 {
 }
 
 h2 {
-    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
     text-decoration: none;
     font-size: 20;
     font-weight: 600;
 }
 
 h3{
-    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
     text-decoration: none;
     font-size: 14;
     font-weight: 100;
@@ -199,7 +199,7 @@ body {
     text-decoration: none;
     padding: 10px 0px 10px 60px;
     font-size: 15px;
-    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
 }
 
 .topnav a:hover {
@@ -420,7 +420,7 @@ body {
 
 .isaport p{
     font-size: 15;
-    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
     
 }
 
