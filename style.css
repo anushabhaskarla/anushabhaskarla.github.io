@@ -467,6 +467,120 @@ body {
   -ms-transform: translate(-50%, -50%);
 }
 
+
+/*Orientation Buddy*/
+
+.obhead h1 {
+    font-size: 52;
+}
+
+.proj {
+    font-weight: bolder;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    left: 14.5%;
+    top: 680px;
+
+}
+
+.year {
+    font-weight:bolder;
+    font-family: 'Roboto Condensed', sans-serif;
+    position: absolute;
+    left: 30%;
+    top: 680px;
+    
+}
+
+.org {
+    font-weight:bolder;
+    font-family: 'Roboto Condensed', sans-serif;
+    position: absolute;
+    left: 45.5%;
+    top: 680px;
+}
+
+.tools {
+    font-weight:bolder;
+    font-family: 'Roboto Condensed', sans-serif;
+    position: absolute;
+    left:61%;
+    top: 680px;
+}
+
+.projdesc{
+    position: absolute;
+    left: 14.5%;
+    top: 705px;
+}
+
+.yeardesc{
+    position: absolute;
+    left: 30%;
+    top: 705px;
+}
+
+.orgdesc{
+    position: absolute;
+    left: 45.5%;
+    top: 705px;
+}
+
+.toolsdesc{
+    position: absolute;
+    left: 61%;
+    top: 705px;
+}
+
+.prompt{
+    background: #F7FBCE;
+    height: 500px;
+}
+
+.obcontent h1{
+    font-size: 36px;
+    font-weight: bolder;
+}
+.obcontent h2 {
+    font-size: 24px;
+    width: 70%;
+    font-weight: normal;
+}
+
+.obcontent p {
+    width: 80%;
+}
+
+
+.obimgleft{
+    float: left;
+    padding-right: 3%;
+    padding-bottom: 10%;
+}
+
+.obcontright{
+    float: right;
+    width: 55%;
+    padding-right: 5%;
+    padding-top: 13%;
+    padding-bottom: 15%;
+}
+
+.obimgright{
+    float:right;
+    padding-top: 10%;
+}
+
+.obcontleft{
+    float:left;
+    width: 55%;
+    padding-top: 13%;
+    padding-bottom: 15%;
+    
+}
+
+
+
 /*FOOTER*/
 footer {
     padding-top: 7%;
